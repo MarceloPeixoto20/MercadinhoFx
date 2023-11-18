@@ -1,0 +1,10 @@
+com\mycompany\mercadinho\model\Pedidos.class
+com\mycompany\mercadinho\App.class
+com\mycompany\mercadinho\model\Produtos.class
+com\mycompany\mercadinho\TelaCadPedidoController.class
+com\mycompany\mercadinho\TelaCadProdutoController.class
+com\mycompany\mercadinho\ModuloConexao\ModuloConexao.class
+com\mycompany\mercadinho\TelaEditPedidoController.class
+com\mycompany\mercadinho\model\itenspedido.class
+module-info.class
+com\mycompany\mercadinho\TelaMenuController.class
